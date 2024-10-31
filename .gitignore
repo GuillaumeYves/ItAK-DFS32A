@@ -1,0 +1,18 @@
+# Ignorer les fichiers de compilation
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.d
+*.code-workspace
+*~
+*.swp
+*.swo
+*.log
+*.d
+*.bak
+/build/
+bin/
+obj/
+.vscode/
